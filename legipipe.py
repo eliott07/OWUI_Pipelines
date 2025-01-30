@@ -10,9 +10,7 @@ class Tools:
     """
     A class to provide tools for fetching and formatting biblical text via the Bible API.
     """
-
-    ## Test changing something in the code
-
+    
     class Valves(BaseModel):
         """
         A class to represent the settings for the BibleTools class.
